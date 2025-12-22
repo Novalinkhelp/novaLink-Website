@@ -524,6 +524,10 @@ h6 {
 .footer .copyright p {
   margin-bottom: 0;
 }
+a {
+  color: inherit;
+  text-decoration: none;
+}
 
 .footer .credits {
   margin-top: 8px;
